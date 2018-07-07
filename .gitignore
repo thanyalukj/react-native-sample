@@ -5,3 +5,6 @@ node_modules/react-native/Libraries
 node_modules/react-native/React/React.xcodeproj
 node_modules/react-native/scripts
 node_modules/react-native/third-party
+android/.gradle
+android/app/build
+android/build
